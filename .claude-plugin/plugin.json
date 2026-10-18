@@ -1,0 +1,9 @@
+{
+  "name": "omnivideo",
+  "version": "0.1.0-105b317331",
+  "description": "OmniVideo: roteiro, motion em código, voz clonada, legenda e publicação, do pedido ao MP4.",
+  "author": {
+    "name": "Crievo"
+  },
+  "homepage": "https://omni.crievo.com"
+}

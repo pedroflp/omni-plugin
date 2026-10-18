@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "omnivideo": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@crievo/omni",
+        "mcp"
+      ]
+    }
+  }
+}
