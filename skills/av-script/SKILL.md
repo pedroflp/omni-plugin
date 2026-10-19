@@ -1,7 +1,7 @@
 ---
 name: av-script
 description: omnivideo stage 1 — writes the content script (script.md) from a topic or raw source material, or validates and adjusts a script the user already sent. Use when the script stage needs to be done or redone.
-model: opus
+model: haiku
 effort: high
 context: fork
 ---
