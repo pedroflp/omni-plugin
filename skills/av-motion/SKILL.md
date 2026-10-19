@@ -6,8 +6,8 @@ effort: high
 context: fork
 ---
 
-!`npx -y @crievo/omni skill av-motion --v 13f82d05e1c9 --part 1/2`
+!`npx -y @crievo/omni skill av-motion --v 862aed9e22e9 --part 1/2`
 
-!`npx -y @crievo/omni skill av-motion --v 13f82d05e1c9 --part 2/2`
+!`npx -y @crievo/omni skill av-motion --v 862aed9e22e9 --part 2/2`
 
-Se acima aparecerem os comandos em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-motion --v 13f82d05e1c9 --part i/2` para cada parte, de 1 a 2, e siga a saída.
+Se acima aparecerem os comandos em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-motion --v 862aed9e22e9 --part i/2` para cada parte, de 1 a 2, e siga a saída.
