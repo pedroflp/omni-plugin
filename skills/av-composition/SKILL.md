@@ -6,8 +6,8 @@ effort: xhigh
 context: fork
 ---
 
-!`npx -y @crievo/omni skill av-composition --v 8c0cebd02b2b --part 1/2`
+!`npx -y @crievo/omni skill av-composition --v 4e94218f3dda --part 1/2`
 
-!`npx -y @crievo/omni skill av-composition --v 8c0cebd02b2b --part 2/2`
+!`npx -y @crievo/omni skill av-composition --v 4e94218f3dda --part 2/2`
 
-Se acima aparecerem os comandos em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-composition --v 8c0cebd02b2b --part i/2` para cada parte, de 1 a 2, e siga a saída.
+Se acima aparecerem os comandos em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-composition --v 4e94218f3dda --part i/2` para cada parte, de 1 a 2, e siga a saída.
