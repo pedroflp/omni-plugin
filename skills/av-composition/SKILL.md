@@ -2,12 +2,10 @@
 name: av-composition
 description: omnivideo stage 3 — composes the approved scenes in seek-safe HTML: the shared base of the style (motion/src/_common.html), one fork per scene all at once (beats, duration, transitions, sounds), and the closing pass (cut sheets, Passagens). Use to compose, recompose or close a video's composition after its scenes are approved. The motion script and the frames are the av-motion skill; the final render (stage 6) is the av-render skill.
 model: opus
-effort: xhigh
+effort: high
 context: fork
 ---
 
-!`npx -y @crievo/omni skill av-composition --v 4e94218f3dda --part 1/2`
+!`npx -y @crievo/omni skill av-composition --v a9b08764d593`
 
-!`npx -y @crievo/omni skill av-composition --v 4e94218f3dda --part 2/2`
-
-Se acima aparecerem os comandos em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-composition --v 4e94218f3dda --part i/2` para cada parte, de 1 a 2, e siga a saída.
+Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-composition --v a9b08764d593` e siga a saída.
