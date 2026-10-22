@@ -6,6 +6,6 @@ effort: max
 context: fork
 ---
 
-!`npx -y @crievo/omni skill av-thumbnail --v 6b8344c1e7f3`
+!`npx -y @crievo/omni skill av-thumbnail --v d19cbc1a78eb`
 
-Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-thumbnail --v 6b8344c1e7f3` e siga a saída.
+Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-thumbnail --v d19cbc1a78eb` e siga a saída.
