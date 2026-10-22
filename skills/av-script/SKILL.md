@@ -6,6 +6,6 @@ effort: high
 context: fork
 ---
 
-!`npx -y @crievo/omni skill av-script --v a9b08764d593`
+!`npx -y @crievo/omni skill av-script --v 6b8344c1e7f3`
 
-Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-script --v a9b08764d593` e siga a saída.
+Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-script --v 6b8344c1e7f3` e siga a saída.
