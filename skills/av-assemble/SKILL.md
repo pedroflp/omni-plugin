@@ -6,6 +6,6 @@ effort: medium
 context: fork
 ---
 
-!`npx -y @crievo/omni skill av-assemble --v d19cbc1a78eb`
+!`npx -y @crievo/omni skill av-assemble --v 60e3f851b4bd`
 
-Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-assemble --v d19cbc1a78eb` e siga a saída.
+Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-assemble --v 60e3f851b4bd` e siga a saída.
