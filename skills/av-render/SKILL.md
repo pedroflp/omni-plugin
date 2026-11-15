@@ -6,6 +6,6 @@ effort: high
 context: fork
 ---
 
-!`npx -y @crievo/omni skill av-render --v 1f5387f565c2`
+!`npx -y @crievo/omni skill av-render --v c59d0b29654c`
 
-Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-render --v 1f5387f565c2` e siga a saída.
+Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-render --v c59d0b29654c` e siga a saída.
