@@ -6,6 +6,6 @@ effort: high
 context: fork
 ---
 
-!`npx -y @crievo/omni skill av-carousel --v 9b845d880657`
+!`npx -y @crievo/omni skill av-carousel --v 70bc8182aaeb`
 
-Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-carousel --v 9b845d880657` e siga a saída.
+Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-carousel --v 70bc8182aaeb` e siga a saída.
