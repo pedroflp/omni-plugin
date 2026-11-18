@@ -6,6 +6,6 @@ effort: medium
 context: fork
 ---
 
-!`npx -y @crievo/omni skill av-voice --v be430891bd0d`
+!`npx -y @crievo/omni skill av-voice --v 225e9df81cd2`
 
-Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-voice --v be430891bd0d` e siga a saída.
+Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-voice --v 225e9df81cd2` e siga a saída.
