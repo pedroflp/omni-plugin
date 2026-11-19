@@ -6,6 +6,6 @@ effort: low
 context: fork
 ---
 
-!`npx -y @crievo/omni skill av-captions --v 1eefe215ad67`
+!`npx -y @crievo/omni skill av-captions --v 0bfcc7665e07`
 
-Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-captions --v 1eefe215ad67` e siga a saída.
+Se acima aparecer o comando em vez das instruções, rode via Bash `npx -y @crievo/omni skill av-captions --v 0bfcc7665e07` e siga a saída.
